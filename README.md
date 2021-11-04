@@ -1,8 +1,11 @@
 # Interpretable Machine Learning Lecture WS2021 Uni Bremen: Exercise Sheets
 
 You can find the exercise sheets for the lecture "Interpretable Machine Learning" in this repository. Solutions to the exercise sheets will be uploaded after discussing the exercises on Wednesdays.
+We recommend that you have a look at the exercise sheet before the discussion.
 
-Sheet 1 will be discussed on 03.11.2021, we recommend that you have a look at it before the discussion.  
+- Sheet 1 will be discussed on 03.11.2021
+
+- Sheet 2 will be discussed on 10.11.2021
 
 We hope you enjoy learning about interpretable machine learning with us! 
 
