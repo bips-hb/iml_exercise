@@ -11,7 +11,7 @@ We recommend that you have a look at the exercise sheet before the discussion.
 
 - Sheet 4 will be discussed on 24.11.2021
 
-- Sheet 5 will be discussed on 02.12.2021 (Thursday due "Teaching day")
+- Sheet 5 will be discussed on 02.12.2021 (Thursday due to "Teaching day" on Wednesday)
 
 We hope you enjoy learning about interpretable machine learning with us! 
 
