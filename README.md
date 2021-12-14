@@ -15,6 +15,10 @@ We recommend that you have a look at the exercise sheet before the discussion.
 
 - Sheet 6 will be discussed on 08.12.2021
 
+- Sheet 7 will be discussed on 15.12.2021
+
+- Sheet 8 will be discussed on 22.12.2021
+
 We hope you enjoy learning about interpretable machine learning with us! 
 
 If you have any questions related to the exercise, feel free to write an email to Kristin Blesch (blesch@leibniz-bips.de) or Niklas Koenen (koenen@leibniz-bips.de)
